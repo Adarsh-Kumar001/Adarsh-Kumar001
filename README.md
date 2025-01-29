@@ -3,7 +3,7 @@
 
 ###
 
-<img align="center" height="150" src="https://media1.tenor.com/m/mGgWY8RkgYMAAAAC/hello-world.gif"  />
+<img align="left" height="150" src="https://media1.tenor.com/m/mGgWY8RkgYMAAAAC/hello-world.gif"  />
 
 ###
 
